@@ -47,6 +47,6 @@ IV.  Transformation of the Data (data cleaning and transformation required)
 
 V.  Load (final database, tables/collections, and why this was chosen) (see 'tables_data_from_pandas_query.png')
 
-	The gist of my interests in these datasets is that I have worked in oil & gas for approximately 20 years.  For the first 	15 years or so of my career oil prices were good to really great.  So from a professional perspective life was good.  		About 5 years ago the oil and gas market crashed and the recovery has been slow especially in the deepwater sector.  
+	The gist of my interests in these datasets is that I have worked in oil & gas for approximately 20 years.  For the first 		15 years or so of my career oil prices were good to really great.  So from a professional perspective life was good.  			About 5 years ago the oil and gas market crashed and the recovery has been slow especially in the deepwater sector.  
 
-	With the most recent drop in oil prices I thought it would be interesting to see if there was a correlation historically 	between oil prices and unemployment on a national scale.  However, I am sure that low oil prices are very attractive to 		industries such as logistics and trucking, commercial airlines, and to consumers in general.
+	With the most recent drop in oil prices I thought it would be interesting to see if there was a correlation historically 		between oil prices and unemployment on a national scale.  However, I am sure that low oil prices are very attractive to 		industries such as logistics and trucking, commercial airlines, and to consumers in general.
